@@ -26,7 +26,3 @@ class MegaSena {
     return number.length === 1 ? '0' + number : number;
   }
 }
-
-// let mega = new MegaSena();
-// mega.getRandomNumber();
-// document.write(mega.numbers);
