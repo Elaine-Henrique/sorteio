@@ -1,2 +1,1 @@
-# MegaJs
-Sorteio de numeros mega sena
+# teste Sorteio Mega Sena
